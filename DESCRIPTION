@@ -1,0 +1,11 @@
+Package: gdscmatrixanalyser
+Title: Calculate drug combination interaction metrics for matrix experiments.
+Version: 0.99.1
+Authors@R: c(person("Howard", "Lightfoot", email = "hl7@sanger.ac.uk", role = c("aut", "cre")),
+             person("Genome Research Limited", role = "cph")
+             )
+Description: Calculate drug combinationineraction metrics for matrix experiments.
+License: AGPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
